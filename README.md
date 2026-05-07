@@ -6,7 +6,7 @@ A set of scripts used to analyze SMART-D clinical trial data with Drs Boyu Ren, 
 
 *smart_emabarc_nature_mental_health.Rmd* This script analyzes SMART and EMBARC study data. Main analyses examine longitudinal changes in depression (MADRS) across biomarker groups, antidepressant medication (bupropion vs. sertraline), and consistent medication assignment.
 
-Code includes:
+Code includes:\
 • Combining, merging, and cleaning dfs\
 • Longitudinal analysis (linear mixed-effects models)\
 • Descriptive statistics and group comparisons (t-tests, chi-squares)\
